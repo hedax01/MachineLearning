@@ -1,0 +1,3 @@
+\beamer@sectionintoc {1}{Introduction to Machine learning}{3}{0}{1}
+\beamer@sectionintoc {2}{Regression}{7}{0}{2}
+\beamer@sectionintoc {3}{The {\it k}-means clustering}{9}{0}{3}
